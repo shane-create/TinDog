@@ -1,2 +1,1 @@
-# TinDog
-just like tinder but tindog
+TinDog Starting Files
